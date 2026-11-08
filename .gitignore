@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Xcode: preferencias personales y archivos generados
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcarchive
+*.ipa
+
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
